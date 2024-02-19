@@ -4,7 +4,16 @@ module.exports = {
     "./src/**/*.{js,jsx,ts,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      borderColor: {
+        'primary': "rgb(51, 97, 205)",
+        'secondary': "#2b2d77"
+
+      }
+    },
+    fontFamily: {
+      'hero-font': 'Sriracha'
+    }
   },
   plugins: [],
 }
