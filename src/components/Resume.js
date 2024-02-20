@@ -3,7 +3,7 @@ import ResumeImg from "../assets/resume.jpg";
 
 export default function Resume() {
     const config = {
-        link: 'https://drive.google.com/file/d/1JLBhDET2V99pUphzL2BWYFDRo0ypgo5Q/view?usp=sharing'
+        link: 'https://drive.google.com/drive/folders/1oa9b847cTGR_ma7ozeNGk_VSw32vz8NM?usp=drive_link'
     }
 
     return (<>
