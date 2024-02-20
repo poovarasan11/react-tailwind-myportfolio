@@ -20,7 +20,7 @@ export default function Hero() {
                 <h1 className="w-1/2 text-white text-6xl font-hero-font">Hi,<br /> Im Poovarasan Subramani,
                     <p className="text-2xl  ">{config.subtitle} </p>
                 </h1>
-                <div className="flex py-15">
+                <div className="flex py-15 ">
                     <a href="#" className="pr-5 hover:text-white"><AiOutlineFacebook size={40} /></a>
                     <a href="#" className="pr-5 hover:text-white"><AiOutlineTwitter size={40} /></a>
                     <a href={config.social.gitup} className="pr-5 hover:text-white"><AiOutlineGithub size={40} /></a>
